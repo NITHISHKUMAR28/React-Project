@@ -1,0 +1,18 @@
+{
+  "Users": [
+    {
+      "id": "1",
+      "role": "teacher",
+      "name": "Nithish",
+      "mail": "Nithish@123.com",
+      "password": "Nithish"
+    },
+    {
+      "id": "eb35",
+      "role": "student",
+      "name": "vickey",
+      "mail": "vickey@123",
+      "password": "123"
+    }
+  ]
+}
